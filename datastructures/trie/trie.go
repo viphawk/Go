@@ -1,6 +1,3 @@
-// Package trie provides Trie data structures in golang.
-//
-// Wikipedia: https://en.wikipedia.org/wiki/Trie
 package trie
 
 // Node represents each node in Trie.
